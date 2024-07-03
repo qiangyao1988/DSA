@@ -27,7 +27,7 @@ The code is structured as follows:
     -- bias-only.ipynp
 -- Adversarial attack against the bias-only ViT
     -- adversarial attack against bias-only model.ipynp
--- Attention mmask
+-- Attention mask (AM) 
     -- attention mask (AM).ipynp
 -- Debiased self-attention (DSA)
     -- debiased self-attention (DSA).ipynp
